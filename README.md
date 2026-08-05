@@ -17,20 +17,16 @@ Me chamo Mateus Conceição, tenho 20 anos e sou natural do estado da Bahia. Rea
 
 ### 📊 Estatísticas
 
-<p>
+<p align="center">
   <img 
-    align="left" 
     alt="GitHub Stats do Mateus" 
     height="200" 
-    style="padding-right: 10px;" 
-    src="https://github-readme-stats.vercel.app/api?username=MateusCLima11&show_icons=true&theme=tokyonight&include_all_commits=true&locale=pt-br" 
+    style="margin-right: 10px;" 
+    src="https://github-readme-stats.vercel.app/api?username=MateusCLima11&amp;show_icons=true&amp;theme=tokyonight&amp;include_all_commits=true&amp;locale=pt-br" 
   />
-
   <img 
-    align="left" 
     alt="Linguagens mais utilizadas" 
     height="200" 
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=MateusCLima11&theme=tokyonight&layout=compact&custom_title=Tecnologias&langs_count=9" 
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=MateusCLima11&amp;theme=tokyonight&amp;layout=compact&amp;custom_title=Tecnologias&amp;langs_count=9" 
   />
 </p>
-<br clear="both">
