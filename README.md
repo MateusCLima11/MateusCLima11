@@ -1,7 +1,3 @@
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=auto&height=150&section=header&text=Bem-vindo%20ao%20meu%20GitHub!&fontSize=32&theme=tokyonight" />
-</p>
-
 ## HELLO WORLD! 👋
 
 Me chamo Mateus Conceição, tenho 20 anos e sou natural do estado da Bahia. Realizei todo o ensino médio na Rede SESI. Atualmente, estou cursando Desenvolvimento de Sistemas no SENAI, além de também estar cursando Licenciatura em Computação na UFRB - (Universidade Federal do Recôncavo da Bahia).
